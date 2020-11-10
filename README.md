@@ -1,6 +1,9 @@
 # Description  
-This repo contains 1 Web and 2 API automated tests of TradeMe sandbox env.    
+This repo contains 1 Web and 2 API automated tests of TradeMe sandbox env.  
 The tests are written in Java using BDD format(serenity-BDD) and RestAssured for API.  
+Feature files @ *src/resources/features*  
+StepDefinitions+IndividualSteps+TestRunner @ src/test/java/com/trademe/automation/  
+Webdriver @ src/resources/webdriver/windows  
   
 ## Pre-Requisites:  
 1)Java 1.8 or higher  
@@ -24,5 +27,5 @@ mvn verify
   
 ### Reports:
 Serenity Reports are quite powerul and useful which gives all details from Features to screenshots and time taken.  
-The Reports are generated at <root>/target/site/serenity/index.html  
+The Reports are generated at <root>/**target**/site/serenity/index.html  
 ![Serenity Report](https://github.com/raghu19991/textExercise/tree/main/target/site/serenity/example.JPG?raw=true)  
