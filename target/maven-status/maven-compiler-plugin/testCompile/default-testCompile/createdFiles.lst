@@ -1,0 +1,6 @@
+com\trademe\automation\CharitiesStepDefinitions.class
+com\trademe\automation\TestRunner.class
+com\trademe\automation\UsedCarsStepDefinitions.class
+com\trademe\automation\CommonActions.class
+com\trademe\automation\UsedCarPage.class
+com\trademe\automation\EndUserSteps.class

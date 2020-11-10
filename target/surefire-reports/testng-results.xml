@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-11T04:45:53 NZDT" name="com.trademe.automation.TestRunner" finished-at="2020-11-11T04:45:53 NZDT" duration-ms="14">
+    <groups>
+    </groups>
+    <test started-at="2020-11-11T04:45:53 NZDT" name="Command line test" finished-at="2020-11-11T04:45:53 NZDT" duration-ms="14">
+    </test> <!-- Command line test -->
+  </suite> <!-- com.trademe.automation.TestRunner -->
+</testng-results>
