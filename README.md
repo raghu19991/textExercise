@@ -10,11 +10,11 @@ Webdriver @ src/resources/webdriver/windows
 2)Maven 3.6.3 or higher  
 *Note*: Please add <Install_Dir>/bin of above installations in PATH variable  
 3)ChromeDriver @ <Project_Root>/src/test/resources/webdriver/windows/  
-*Note*: Please add chrome driver compatable to the browser version installed on you system.You can download relevant driverd from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
+*Note*: Please add chrome driver compatable to the browser version installed on you system.You can download relevant drivers at [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
   
 ### Basic Use:  
 1)Clone this project  
-2)Run below command from the root directory in command prompt  
+2)Run below command in command prompt from the root directory(i.e textExercise)    
 mvn verify  
   
 *Note*: 1)If the maven is pointing to any local organisation repo,please change the to point to maven repo.You can check that in <users>/<User>/.m2 folder.  
