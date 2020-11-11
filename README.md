@@ -28,4 +28,4 @@ mvn verify
 ### Reports:
 Serenity Reports are quite powerul and useful which gives all details from Features to screenshots and time taken.  
 The Reports are generated at <root>/**target**/site/serenity/index.html  
-  [https://github.com/raghu19991/textExercise/tree/main/target/site/serenity/index.html](https://github.com/raghu19991/textExercise/tree/main/target/site/serenity/index.html)   
+  ![Serenity Reports](https://github.com/raghu19991/textExercise/blob/main/target/site/serenity/example.JPG?raw=true)   
